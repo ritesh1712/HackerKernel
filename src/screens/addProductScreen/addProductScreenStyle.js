@@ -12,6 +12,7 @@ export default addProductScreenStyle = StyleSheet.create({
       paddingHorizontal: 10,
       marginVertical: 10,
       borderRadius: 8,
+      color:'black'
     },
     imagePickerContainer: {
       flexDirection: "row",

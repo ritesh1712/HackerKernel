@@ -32,6 +32,7 @@ export default homeScreenStyle = StyleSheet.create({
     height: 40,
     borderRadius: 10,
     marginVertical: 10,
+    color:'black'
   },
   noProductsText: {
     textAlign: 'center',
@@ -56,6 +57,7 @@ export default homeScreenStyle = StyleSheet.create({
     fontSize: 23,
     fontWeight: '700',
     paddingVertical: 20,
+    color:'black'
   },
   shopInfo: {
     opacity: 0.5,
